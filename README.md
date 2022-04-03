@@ -1,5 +1,5 @@
 # sum-of-prime-factors-function
-Python algorithm for a mathematical iteration problem on prime factors. It is weakly related to the Goldbach conjecture.
+Python algorithm for a mathematical iteration problem on prime factors.
 
 If n is prime, double n. If n is composite, subtract the sum of the prime factors. Continue this procedure until you reach a cycle or 1.
 
